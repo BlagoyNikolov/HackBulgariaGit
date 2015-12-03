@@ -1,0 +1,9 @@
+c:\users\blagoy\documents\visual studio 2015\Projects\Week3\Week3\bin\Debug\Week3.exe.config
+c:\users\blagoy\documents\visual studio 2015\Projects\Week3\Week3\bin\Debug\Week3.exe
+c:\users\blagoy\documents\visual studio 2015\Projects\Week3\Week3\bin\Debug\Week3.pdb
+c:\users\blagoy\documents\visual studio 2015\Projects\Week3\Week3\obj\Debug\Week3.csprojResolveAssemblyReference.cache
+c:\users\blagoy\documents\visual studio 2015\Projects\Week3\Week3\obj\Debug\Week3.exe
+c:\users\blagoy\documents\visual studio 2015\Projects\Week3\Week3\obj\Debug\Week3.pdb
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\HackBulgariaGit\Week3\Week3\bin\Debug\Week3.exe.config
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\HackBulgariaGit\Week3\Week3\obj\Debug\Week3.exe
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\HackBulgariaGit\Week3\Week3\obj\Debug\Week3.pdb

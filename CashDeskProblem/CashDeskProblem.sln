@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashDeskApplication", "CashDeskApplication\CashDeskApplication.csproj", "{3731F3DB-CFFD-48E3-97EF-80F7A32E1D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashDesk", "CashDesk\CashDesk.csproj", "{010A0FF5-26E8-4E13-BAC7-22ECFE7C5EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3731F3DB-CFFD-48E3-97EF-80F7A32E1D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3731F3DB-CFFD-48E3-97EF-80F7A32E1D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3731F3DB-CFFD-48E3-97EF-80F7A32E1D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3731F3DB-CFFD-48E3-97EF-80F7A32E1D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010A0FF5-26E8-4E13-BAC7-22ECFE7C5EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010A0FF5-26E8-4E13-BAC7-22ECFE7C5EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010A0FF5-26E8-4E13-BAC7-22ECFE7C5EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010A0FF5-26E8-4E13-BAC7-22ECFE7C5EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

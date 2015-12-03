@@ -1,0 +1,17 @@
+c:\users\blagoy\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\Week1.csprojResolveAssemblyReference.cache
+c:\users\blagoy\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\blagoy\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\blagoy\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\blagoy\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\blagoy\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\poster.bmp
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Week1\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Week1\obj\Debug\ConsoleApplication2.exe
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Week1\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\Week1\Week1\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\Week1\Week1\obj\Debug\ConsoleApplication2.exe
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\Week1\Week1\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\Week1\Week1\bin\Debug\poster.bmp
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\Week1\Week1\bin\Debug\ConsoleApplication2.exe
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\Week1\Week1\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\Week1\Week1\obj\Debug\Week1.csprojResolveAssemblyReference.cache
