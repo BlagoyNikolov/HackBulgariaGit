@@ -50,28 +50,29 @@ namespace Week2 {
             //_1337.HackerTime();
 
             //Appointments intersection
-            DateTime[] startDate = new DateTime[] {
-                new DateTime(2015, 10, 1, 17, 30, 00),
-                new DateTime(2015, 10, 2, 13, 00, 00),
-                new DateTime(2015, 10, 3, 14, 30, 00),
-                new DateTime(2015, 10, 1, 10, 20, 00),
-                new DateTime(2015, 10, 5, 17, 00, 00)
-            };
+            //DateTime[] startDate = new DateTime[] {
+            //    new DateTime(2015, 10, 1, 17, 30, 00),
+            //    new DateTime(2015, 10, 2, 13, 00, 00),
+            //    new DateTime(2015, 10, 3, 14, 30, 00),
+            //    new DateTime(2015, 10, 1, 14, 20, 00),
+            //    new DateTime(2015, 10, 5, 17, 00, 00)
+            //};
 
-            TimeSpan[] durations = new TimeSpan[] {
-                new TimeSpan(2, 10, 0),
-                new TimeSpan(3, 10, 0),
-                new TimeSpan(2, 10, 0),
-                new TimeSpan(5, 10, 0),
-                new TimeSpan(2, 10, 0)
-            };
-            Appointments.FindIntersectingAppointments(startDate, durations);
+            //TimeSpan[] durations = new TimeSpan[] {
+            //    new TimeSpan(2, 10, 0),
+            //    new TimeSpan(3, 10, 0),
+            //    new TimeSpan(2, 10, 0),
+            //    new TimeSpan(5, 30, 0),
+            //    new TimeSpan(2, 10, 0)
+            //};
+            
+            //Appointments.FindIntersectingAppointments(startDate, durations);
 
             //Calendar
-            CalendarHack.PrintCalendar(12, 2015, new CultureInfo("bg-BG"));
+            //CalendarHack.PrintCalendar(12, 2015, new CultureInfo("bg-BG"));
 
             //Bank Account Balance
-            BankAccountBalance.Pesho("C:\\Users\\Blagoy\\Desktop\\matrix.txt");
+            BankAccountBalance.Balance("C:\\Users\\Blagoy\\Desktop\\pesho.txt");
 
             //Polygon Circumference and Area
             //PointF[] points = new PointF[] {
@@ -86,7 +87,8 @@ namespace Week2 {
             //RandomFloat.GenerateRandomMatrix(5, 5, "C:\\Users\\Blagoy\\Desktop\\matrix.txt");
 
             //Clock angle
-            ClockAngle.GetClockHandsAngle(new DateTime(2015, 12, 1, 4, 30, 00));
+            //DateTime time = new DateTime(2015, 12, 1, 4, 30, 00);
+            //Console.WriteLine("The angle between {0} and {1} is: {2} ",time.Hour, time.Minute, ClockAngle.GetClockHandsAngle(time, false));
         }
     }
 }

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopInventory", "ShopInventory\ShopInventory.csproj", "{A569077F-2511-46AC-94D8-BA5F4FCB0D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopInventoryApplication", "ShopInventoryApplication\ShopInventoryApplication.csproj", "{FE72671A-9A00-49B1-A36B-A67D2870CCAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A569077F-2511-46AC-94D8-BA5F4FCB0D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A569077F-2511-46AC-94D8-BA5F4FCB0D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A569077F-2511-46AC-94D8-BA5F4FCB0D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A569077F-2511-46AC-94D8-BA5F4FCB0D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE72671A-9A00-49B1-A36B-A67D2870CCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE72671A-9A00-49B1-A36B-A67D2870CCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE72671A-9A00-49B1-A36B-A67D2870CCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE72671A-9A00-49B1-A36B-A67D2870CCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
