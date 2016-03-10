@@ -106,14 +106,14 @@ namespace ConsoleApplication2 {
 
             //-----------------------------------------------------------------------------
             //Grayscale Image
-            //Bitmap bmp = (Bitmap)Image.FromFile("poster.bmp");
+            Bitmap bmp = (Bitmap)Image.FromFile("poster.bmp");
             //Grayscale.GreyScaleImage(bmp, "C:\\Users\\Blagoy\\Desktop\\grayscalePoster.bmp");
 
             //Interpolate image (nearest neighbour)
             //InterpolateImage.ResampleImage(bmp, new Size(1200,1600), "C:\\Users\\Blagoy\\Desktop\\interpolatedPoster.bmp");
 
             //Apply a linear filter to an image
-            //BoxFilter.BlurImage(bmp, "C:\\Users\\Blagoy\\Desktop\\bluredPoster.bmp");
+            BoxFilter.BlurImage(bmp, "C:\\Users\\Blagoy\\Desktop\\bluredPoster.bmp");
 
             //Maximal Scalar Product
             //List<int> v1 = new List<int> { 3, 8, 2, 1, 6, 8, 7, 9, 7, 5, 7, 6, 5, 1 };

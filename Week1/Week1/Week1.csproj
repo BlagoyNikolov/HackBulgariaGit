@@ -55,7 +55,7 @@
     <Compile Include="MoreProblems\Birthday.cs" />
     <Compile Include="MoreProblems\Grayscale.cs" />
     <Compile Include="MoreProblems\InterpolateImage.cs" />
-    <Compile Include="MoreProblems\NOTDONEBoxFilter.cs" />
+    <Compile Include="MoreProblems\BoxFilter.cs" />
     <Compile Include="MoreProblems\MaximalScalarProduct.cs" />
     <Compile Include="MoreProblems\MaxSpan.cs" />
     <Compile Include="MoreProblems\NOTDONETheMatrix.cs" />

@@ -15,3 +15,10 @@ C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\Week1\Week1\bin\Debug\post
 C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\Week1\Week1\bin\Debug\ConsoleApplication2.exe
 C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\Week1\Week1\bin\Debug\ConsoleApplication2.pdb
 C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\Week1\Week1\obj\Debug\Week1.csprojResolveAssemblyReference.cache
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\HackBulgariaGit\Week1\Week1\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\HackBulgariaGit\Week1\Week1\obj\Debug\ConsoleApplication2.exe
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\HackBulgariaGit\Week1\Week1\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\HackBulgariaGit\Week1\Week1\bin\Debug\poster.bmp
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\HackBulgariaGit\Week1\Week1\bin\Debug\ConsoleApplication2.exe
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\HackBulgariaGit\Week1\Week1\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Blagoy\Documents\Visual Studio 2015\Projects\HackBulgariaGit\Week1\Week1\obj\Debug\Week1.csprojResolveAssemblyReference.cache

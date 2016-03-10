@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClassesAndMethodsClassLibrary", "PartialClassesAndMethodsClassLibrary\PartialClassesAndMethodsClassLibrary.csproj", "{C6BDE464-7D99-483C-AB26-A0E6F39BCF11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClassesAndMethodsApplication", "PartialClassesAndMethodsApplication\PartialClassesAndMethodsApplication.csproj", "{E684B294-7758-4F89-BEE3-DA8DAFC6C599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6BDE464-7D99-483C-AB26-A0E6F39BCF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BDE464-7D99-483C-AB26-A0E6F39BCF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BDE464-7D99-483C-AB26-A0E6F39BCF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BDE464-7D99-483C-AB26-A0E6F39BCF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E684B294-7758-4F89-BEE3-DA8DAFC6C599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E684B294-7758-4F89-BEE3-DA8DAFC6C599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E684B294-7758-4F89-BEE3-DA8DAFC6C599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E684B294-7758-4F89-BEE3-DA8DAFC6C599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
