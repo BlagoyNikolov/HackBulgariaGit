@@ -32,7 +32,7 @@ Week 4
 
 Second take on C# OOP concepts
 Interfaces & standard interfaces: IEnumerable, IComparable
-Inheritence & Abstract Classes
+Inheritance & Abstract Classes
 Polymorhism
 Overloading vs Overriding vs Hiding
 When to use inheritance and when to use a member
