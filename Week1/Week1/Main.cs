@@ -33,10 +33,10 @@ namespace ConsoleApplication2 {
             //Console.WriteLine(HackNumbers.nextHack(10));
 
             //Vowels in a string
-            //Console.WriteLine(Vowels.CountVowels("Github is the second best thing that happend to programmers, after the keyboard!"));
+            //Console.WriteLine(Vowels.CountVowels("Github is the second best thing that happened to programmers, after the keyboard!"));
 
             //Consonants in a string
-            //Console.WriteLine(Consonants.CountConsonants("Github is the second best thing that happend to programmers, after the keyboard!"));
+            //Console.WriteLine(Consonants.CountConsonants("Github is the second best thing that happened to programmers, after the keyboard!"));
 
             //Char Histogram
             //CharHistogramA.CharHistogram("Python!");
@@ -90,7 +90,7 @@ namespace ConsoleApplication2 {
             //Console.WriteLine(ReverseString.ReverseMe("HackBulgaria"));
 
             //Reverse each word in a sentence
-            //Console.WriteLine(ReverseSentence.ReverseEveryWord("Github is the second best thing that happend to programmers, after the keyboard!"));
+            //Console.WriteLine(ReverseSentence.ReverseEveryWord("Github is the second best thing that happened to programmers, after the keyboard!"));
 
             //Copy every character K times
             //CopyCharacterKTtimes.CopyEveryChar("abcdefg", 5);
